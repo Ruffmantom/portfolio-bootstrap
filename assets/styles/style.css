@@ -1,0 +1,70 @@
+body{
+    background-image: url('/assets/images/texture-wall-floor-stone-8892.png');
+}
+/* Navbar */
+.navName{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* First page custom styles */
+.title{
+    font-size: 2em;
+    border-bottom: 1px solid lightslategray;
+}
+.imageMe{
+    width: 20%;
+    margin: 0 15px 5px 0;
+}
+.midsec{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    padding: 20px 15px;
+}
+
+
+
+
+
+
+/* Second Page custom styles */
+
+
+
+
+
+/* Third Page custom styles */
+.img{
+    height: 150px;
+    width: 200px;
+    margin: 0 15px 20px 0;
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+}
+.imgOne{
+    background-image: url('../images/pic-one.jpg');
+}
+.imgTwo{
+    background-image: url('../images/pic-two.jpg');
+}
+.imgThree{
+    background-image: url('../images/pic-three.jpg');
+}
+.imgFour{
+    background-image: url('../images/pic-four.jpg');
+}
+.imgFive{
+    background-image: url('../images/pic-five.jpg');
+}
+.imgTitle{
+    width: 100%;
+    background-color: #ffffffb6;
+    position: absolute;
+    bottom: 8px;
+    text-align: center;
+}
+
+
+/* footer custom styles */
