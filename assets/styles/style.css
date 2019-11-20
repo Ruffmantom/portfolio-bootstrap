@@ -17,6 +17,12 @@ body{
 .navbar{
     padding: .5rem 5rem;
 }
+/* Sceen size nav ----------------------- */
+@media only screen and (max-width: 400px) {
+    .navbar {
+        padding: .5rem .9rem;
+    }
+  }
 
 /* First page custom styles */
 .title{
@@ -36,6 +42,18 @@ body{
     background-color: #ffffff;
     padding: 20px 15px;
 }
+/* Screen Size ----------------- */
+@media only screen and (max-width: 470px) {
+    .contentAboutMe{
+       text-align: center;
+    }
+    .imageMe{
+        width: 180px;
+        margin: 15px auto;
+    }
+
+  }
+/* End screen size ------------- */
 
 
 
@@ -63,6 +81,18 @@ body{
     padding: 0;
     overflow: hidden;
 }
+/* Screen Size ----------------- */
+@media only screen and (max-width: 470px) {
+    .img{
+        height: 150px;
+        width: 200px;
+        margin: 20px auto;
+        position: relative;
+        padding: 0;
+        overflow: hidden;
+    }
+  }
+/* End screen size ------------- */
 
 .img:hover{
     cursor: pointer;
