@@ -98,20 +98,20 @@ body{
     cursor: pointer;
 }
 .imgOne{
-    background-image: url('../images/pic-one.jpg');
+    background-image: url('../../assets/images/pic-one.jpg');
 
 }
 .imgTwo{
-    background-image: url('../images/pic-two.jpg');
+    background-image: url('../../assets/images/pic-two.jpg');
 }
 .imgThree{
-    background-image: url('../images/pic-three.jpg');
+    background-image: url('../../assets/images/pic-three.jpg');
 }
 .imgFour{
-    background-image: url('../images/pic-four.jpg');
+    background-image: url('../../assets/images/pic-four.jpg');
 }
 .imgFive{
-    background-image: url('../images/pic-five.jpg');
+    background-image: url('../../assets/images/pic-five.jpg');
 }
 .imgTitle{
     width: 100%;
