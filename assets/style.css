@@ -93,6 +93,8 @@ body{
     }
   }
 /* End screen size ------------- */
+/* Portfolio images and divs */
+
 
 .img:hover{
     cursor: pointer;
@@ -119,6 +121,7 @@ body{
     position: absolute;
     bottom: 8px;
     text-align: center;
+    color: #2e2e2e;
 }
 
 
